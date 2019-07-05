@@ -15,6 +15,8 @@ https://github.com/TadasBaltrusaitis/OpenFace/wiki/Unix-Installation
 ### donwload models
 
 ```
+apt install unzip
+
 ./download_models.sh
 ```
 
